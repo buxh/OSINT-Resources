@@ -1,0 +1,265 @@
+This has been created for educational purposes only.
+I am by no means an expert in this field.
+https://solo.to/buxh
+
+Username
+ - Username Search Engines
+   - https://namechk.com/
+   - https://knowem.com/
+   - https://www.namecheckr.com/
+   - https://usersearch.org/
+   - https://github.com/WebBreacher/WhatsMyName
+   - https://thatsthem.com/
+   - https://checkusernames.com/
+   - https://namecheckup.com/
+   - https://instantusername.com/
+ 
+Email
+ - Email Search
+   - https://thatsthem.com/
+   - https://hunter.io/
+   - http://www.melissadata.com/lookups/emails.asp
+   - https://pipl.com/
+   - https://www.voilanorbert.com/
+   - http://www.reversegenie.com/email.php
+   - http://www.edge-security.com/theharvester.php
+   - https://github.com/m4ll0k/infoga
+   - https://maildb.io/
+   - http://www.skymem.info/
+   - https://mailshunt.com/
+   - https://sites.google.com/site/emails4corporations/home
+   - https://www.email-format.com/
+   - https://www.toofr.com/
+   - http://metricsparrow.com/toolkit/email-permutator/
+   - http://www.onelook.com/reverse-dictionary.shtml
+ - Email Verification
+   - http://mailtester.com/testmail.php
+   - http://verify-email.org/
+   - http://e-mailvalidator.com/index.php
+   - http://www.email-validator.net/
+   - http://www.readnotify.com/
+   - https://emailrep.io/
+   - https://www.mailboxvalidator.com/demo
+ - Database Breaches
+   - https://haveibeenpwned.com/
+   - https://dehashed.com/
+   - https://intelx.io/
+   - https://www.vigilante.pw/
+   - http://breachorclear.jesterscourt.cc/
+   - https://ashley.cynic.al/
+ - Spam Reputation Lists
+   - http://www.tcpiputils.com/dns-blackhole-list
+ - Mail Blacklists
+   - http://mxtoolbox.com/
+
+IP Address
+ - Geolocation
+   - https://www.maxmind.com/en/home
+   - http://ipverse.net/
+   - https://www.ip2location.com/demo
+   - http://www.ipfingerprints.com/
+   - https://db-ip.com/
+   - https://www.iplocation.net/
+   - http://www.infosniper.net/
+   - http://en.utrace.de/
+   - https://www.infobyip.com/
+   - https://www.iptrackeronline.com/
+   - https://www.ipaddress.my/
+ - Port / Host Discovery
+   - https://spyse.com/search/ip
+   - https://www.shodan.io/
+   - https://scans.io/
+   - https://www.zoomeye.org/
+   - https://nmap.org/download.html
+   - http://www.exfiltrated.com/querystart.php
+   - https://urlscan.io/search/#*
+   - https://github.com/vesche/scanless
+   - https://github.com/robertdavidgraham/masscan
+ - IPv4
+   - https://aslookup.com/
+   - https://www.onyphe.io/
+   - http://www.cidr-report.org/as2.0/
+   - https://reverse.report/
+   - https://asn.cymru.com/
+   - https://iptoasn.com/
+   - https://hackertarget.com/reverse-dns-lookup/
+ - IPv6
+   - http://www.cidr-report.org/v6/as2.0/
+ - BGP
+   - http://bgp.he.net/
+   - http://bgpranking.circl.lu/
+   - https://bgpstream.com/
+   - https://www.peeringdb.com/advanced_search
+   - http://www.bgp4.as/tools
+ - Reputation
+   - http://www.ipvoid.com/
+   - https://exonerator.torproject.org/
+   - https://www.liveipmap.com/
+ - Blacklists
+   - http://www.blocklist.de/en/index.html
+   - https://isc.sans.edu/api/
+   - http://iplists.firehol.org/
+   - http://www.projecthoneypot.org/list_of_ips.php
+ - Neighbor Domains
+   - http://www.ipfingerprints.com/reverseip.php
+   - http://www.bing.com/search?q=ip%3A8.8.8.8
+   - http://www.tcpiputils.com/domain-neighbors
+   - http://www.my-ip-neighbors.com/
+   - http://www.sameip.org/
+ - Network Analysis Tools
+   - https://www.wireshark.org/download.html
+   - https://www.netresec.com/?page=Networkminer
+   - http://www.packettotal.com/
+   - https://www.networktotal.com/
+ - IP Loggers
+   - https://ki.tc/
+   - https://grabify.link/
+   - https://iplogger.com/
+
+People Lookup Tools
+ - People Search
+   - http://www.familytreenow.com/
+   - https://pipl.com/
+   - http://www.spokeo.com/
+   - https://thatsthem.com/name-address-search
+   - http://www.zoominfo.com/people_directory/professional_profile/A-0-1
+   - http://www.ussearch.com/
+   - http://www.zabasearch.com/
+   - http://snoopstation.com/index.html
+   - http://www.melissadata.com/lookups/peoplefinder.asp
+   - https://www.advancedbackgroundchecks.com/
+   - https://www.salesmaple.com/contacts/#!/
+   - http://www.peekyou.com/
+   - http://www.peepdb.com/
+   - http://www.reversegenie.com/people.php
+   - http://itools.com/tool/wink-people-search
+   - http://radaris.com/
+   - http://profileengine.com/
+   - http://www.intelius.com/
+   - http://infospace.com/
+   - http://waatp.com/
+   - http://webmii.com/
+   - http://snitch.name/
+   - http://com.lullar.com/
+   - http://www.yasni.com/
+   - http://search.findmypast.com/search-world-records
+   - http://howmanyofme.com/search/
+   - https://familysearch.org/search/
+   - http://search.ancestry.com/
+   - http://www.searchbug.com/#pageTop
+   - https://nuwber.com/
+   - http://www.everify.com/
+   - http://www.genealogy.com/
+   - http://www.newultimates.com/
+   - https://www.mylife.com/
+   - http://ark.com/landing
+   - http://www.anywho.com/whitepages
+   - http://www.addresses.com/
+   - http://sortedbyname.com/
+   - https://cubib.com/
+   - https://www.truepeoplesearch.com/
+   - https://www.fastpeoplesearch.com/
+   - https://speedyhunt.com/
+   - https://www.beenverified.com/
+   - https://www.whitepages.com/
+
+Reverse Number Lookup
+ - Number Lookup
+   - https://api.pipl.com/search/v5/?phone=18887420000&key=sample_key&pretty=true
+   - https://whocalld.com/
+   - http://www.411.com/reverse_phone
+   - http://www.calleridtest.com/
+   - https://thatsthem.com/reverse-phone-lookup
+   - https://www.twilio.com/lookup
+   - http://www.fonefinder.net/
+   - http://www.truecaller.com/
+   - http://www.reversegenie.com/phone.php
+   - http://www.spydialer.com/default.aspx
+   - http://www.phonevalidator.com/
+   - http://freecarrierlookup.com/
+   - http://mrnumber.com/1-888-742-0000
+   - http://www.calleridservice.com/
+   - https://nextcaller.com/
+   - https://www.data24-7.com/signup.php
+   - https://www.hlr-lookups.com/
+   - https://www.opencnam.com/
+   - http://api.opencnam.com/v2/phone/+19073372323
+   - https://www.usphonebook.com/
+   - https://bhattsameer.github.io/numspy
+   - https://numspy.pythonanywhere.com/
+
+Public Records
+ - Property Records
+   - http://www.melissadata.com/lookups/propertyviewer.asp
+   - http://www.zillow.com/
+   - https://www.emporis.com/
+   - https://www.homefacts.com/
+   - https://neighbor.report/
+   - https://www.redfin.com/
+ - Court / Criminal Records
+   - http://www.blackbookonline.info/USA-County-Court-Records.aspx
+   - http://worldlii.org/
+   - http://www.canlii.org/en/
+   - http://ancestorhunt.com/most-wanted-criminals-and-fugitives.htm
+   - http://www.blackbookonline.info/criminalsearch.aspx
+   - https://www.crimereports.com/
+   - http://www.familywatchdog.us/
+   - http://www.felonspy.com/search.html
+   - http://www.theinmatelocator.com/
+   - http://www.criminalsearches.com/
+   - https://www.nsopw.gov/en/Search
+   - http://www.theinmatelocator.com/
+   - http://www.criminalsearches.com/
+   - https://www.nsopw.gov/en/Search
+   - http://mugshots.com/
+   - https://www.bop.gov/inmateloc/
+ - Government Records
+   - http://www.newsobserver.com/news/databases/state-pay/
+   - https://govdataca.com/
+   - http://www.sacbee.com/site-services/databases/state-pay/article2642161.html
+ - Financial / Tax Resources
+   - http://www.binbase.com/search.html
+   - https://vat-search.eu/
+   - http://publicrecords.netronline.com/
+ - Birth Records
+   - http://sortedbybirthdate.com/
+   - http://birth-records.mooseroots.com/
+   - http://www.birthdatabase.com/
+ - Death Records
+   - http://www.melissadata.com/lookups/deathcheck.asp
+   - http://www.findagrave.com/index.html
+   - http://www.graveinfo.com/
+   - http://death-records.mooseroots.com/
+ - US County Data
+   - http://explorer.naco.org/index.html
+ - Voter Records
+   - https://voterrecords.com/
+   - http://www.blackbookonline.info/USA-Voter-Records.aspx
+ - Patent Records
+   - http://patft.uspto.gov/netahtml/PTO/index.html
+   - https://www.google.com/advanced_patent_search
+ - Political Records
+   - http://www.followthemoney.org/
+   - http://www.opensecrets.org/
+   - http://www.politicalmoneyline.com/
+   - http://www.melissadata.com/lookups/fec.asp
+   - http://data.influenceexplorer.com/#
+   - http://www.fec.gov/finance/disclosure/norindsea.shtml
+   - http://everypolitician.org/
+
+OpSec (Operational security (OPSEC) is a security and risk management process that prevents sensitive information from getting into the wrong hands)
+ - Persona Creation
+   - http://www.fakenamegenerator.com/
+   - http://justdelete.me/fake-identity-generator/
+   - https://randomuser.me/
+   - https://www.pexels.com/
+   - https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html
+ - Anonymous Browsing
+   - https://www.torproject.org/download/download-easy.html.en
+   - https://geti2p.net/en/
+   - https://www.deepdotweb.com/vpn-comparison-chart/
+   - https://thatoneprivacysite.net/
+   - http://www.useragentstring.com/pages/useragentstring.php
+   - https://github.com/amq/firefox-debloat
+   - https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/
+   - http://www.locabrowser.com/

@@ -17,6 +17,7 @@ Username
 Email
  - Email Search
    - https://thatsthem.com/
+   - https://epieos.com/
    - https://hunter.io/
    - http://www.melissadata.com/lookups/emails.asp
    - https://pipl.com/

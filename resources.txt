@@ -163,6 +163,11 @@ People Lookup Tools
    - https://speedyhunt.com/
    - https://www.beenverified.com/
    - https://www.whitepages.com/
+   - https://www.classmates.com/
+   - https://www.canada411.ca/
+   - http://www.facesaerch.com/
+   - https://www.familysearch.org/en/
+   - 
 
 Reverse Number Lookup
  - Number Lookup
@@ -188,6 +193,14 @@ Reverse Number Lookup
    - https://www.usphonebook.com/
    - https://bhattsameer.github.io/numspy
    - https://numspy.pythonanywhere.com/
+   - https://www.reversephonelookup.com/
+   - http://spydialer.com/
+   - https://www.twilio.com/lookup
+   - https://www.phonevalidator.com/index.aspx
+   - https://github.com/sundowndev/PhoneInfoga
+   - https://freecarrierlookup.com/
+   - https://sync.me/
+   - https://www.emobiletracker.com/
 
 Public Records
  - Property Records
